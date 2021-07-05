@@ -5,6 +5,8 @@
 ### Chapter 2: 스파크 간단히 살펴보기
 ### Chapter 3: 스파크 기능 둘러보기
 
+<br>
+
 ## Part2: 구조적 API - DataFrame, SQL, Dataset
 ### Chapter 4: 구조적 API 개요
 ### Chapter 5: 구조적 API 기본 연산
