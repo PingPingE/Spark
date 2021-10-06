@@ -40,3 +40,16 @@
 ### Chapter 21: 구조적 스트리밍의 기초
 ### Chapter 22: 이벤트 시간과 상태 기반 처리
 ### Chapter 23: 운영 환경에서의 구조적 스트리밍
+
+<br>
+
+## Part6: 고급 분석과 머신러닝
+### Chapter 24: 고급 분석과 머신러닝 개요
+### Chapter 25: 데이터 전처리 및 피처 엔지니어링
+### Chapter 26: 분류
+### Chapter 27: 회귀
+### Chapter 28: 추천
+### Chapter 29: 비지도 학습
+### Chapter 30: 그래프 분석
+### Chapter 31: 딥러닝
+
